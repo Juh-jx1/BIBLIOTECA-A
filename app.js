@@ -4,8 +4,7 @@
 
 // URL do projeto Supabase
 // Substitua pelo endereço do seu projeto.
-const SUPABASE_URL = "https://oucukmoxgpnyrotfflmu.supabase.co/rest/v1/";
-
+const SUPABASE_URL = "https://oucukmoxgpnyrotfflmu.supabase.co";
 
 // Chave pública do projeto
 // Utilize somente a chave pública destinada ao cliente.
